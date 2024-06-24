@@ -4,34 +4,137 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
 <url>
   <loc>http://getlink.space/</loc>
-  <lastmod>2024-06-22T17:16:00+00:00</lastmod>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://getlink.space/frequently-questions</loc>
-  <lastmod>2024-06-22T17:16:00+00:00</lastmod>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://getlink.space/contacts</loc>
-  <lastmod>2024-06-22T17:16:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://getlink.space/privacy-policy</loc>
-  <lastmod>2024-06-22T17:16:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://getlink.space/terms-and-conditions</loc>
-  <lastmod>2024-06-22T17:16:00+00:00</lastmod>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://getlink.space/about-us</loc>
-  <lastmod>2024-06-22T17:16:00+00:00</lastmod>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<url>
+  <loc>http://getlink.space/es</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://getlink.space/de</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://getlink.space/ru</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://getlink.space/zh</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://getlink.space/my</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://getlink.space/privacy-policy</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://getlink.space/terms-and-conditions</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://getlink.space/es/frequently-questions</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://getlink.space/es/contacts</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://getlink.space/es/about-us</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://getlink.space/de/frequently-questions</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://getlink.space/de/contacts</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://getlink.space/de/about-us</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://getlink.space/ru/frequently-questions</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://getlink.space/ru/contacts</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://getlink.space/ru/about-us</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://getlink.space/zh/frequently-questions</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://getlink.space/zh/contacts</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://getlink.space/zh/about-us</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://getlink.space/my/frequently-questions</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://getlink.space/my/contacts</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://getlink.space/my/about-us</loc>
+  <lastmod>2024-06-24T10:45:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
